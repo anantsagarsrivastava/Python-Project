@@ -91,8 +91,8 @@ source venv/bin/activate     # macOS/Linux
 <hr>
 
 <h2 style="color:#2563eb;">📞 Contact</h2>
-<p><strong>Maintainer:</strong> your.email@example.com</p>
-<a href="https://github.com/YourUsername/smart-attendance-system" target="_blank">GitHub Repository</a>
+<p><strong>Maintainer:</strong> anantsagar064@gamil.com</p>
+<a href="https://github.com/YourUsername/Python-Project" target="_blank">GitHub Repository</a>
 
 <hr>
 

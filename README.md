@@ -153,8 +153,8 @@ git push origin feature-branch
 
 <h2 style="color:#2563eb;">📞 Contact</h2>
 <p><strong>Maintainer:</strong> Your Name</p>
-<p>📧 <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-<p>🔗 <a href="https://github.com/YourUsername">GitHub Profile</a></p>
+<p>📧 <a href="mailto:your.email@example.com">anantsagar064@gmail.com</a></p>
+<p>🔗 <a href="https://github.com/anantsagarsrivastava/Python-Project.git">GitHub Profile</a></p>
 
 <hr>
 
